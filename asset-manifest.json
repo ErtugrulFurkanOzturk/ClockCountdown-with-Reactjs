@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ClockCountdown-with-Reactjs/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ClockCountdown-with-Reactjs/static/js/main.5e9488f5.chunk.js",
+    "main.js.map": "/ClockCountdown-with-Reactjs/static/js/main.5e9488f5.chunk.js.map",
+    "runtime-main.js": "/ClockCountdown-with-Reactjs/static/js/runtime-main.76e354be.js",
+    "runtime-main.js.map": "/ClockCountdown-with-Reactjs/static/js/runtime-main.76e354be.js.map",
+    "static/js/2.7adddc44.chunk.js": "/ClockCountdown-with-Reactjs/static/js/2.7adddc44.chunk.js",
+    "static/js/2.7adddc44.chunk.js.map": "/ClockCountdown-with-Reactjs/static/js/2.7adddc44.chunk.js.map",
+    "index.html": "/ClockCountdown-with-Reactjs/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ClockCountdown-with-Reactjs/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7adddc44.chunk.js.LICENSE.txt": "/ClockCountdown-with-Reactjs/static/js/2.7adddc44.chunk.js.LICENSE.txt",
+    "static/media/jon-tyson-FlHdnPO6dlw-unsplash.0f1c4fe7.jpg": "/ClockCountdown-with-Reactjs/static/media/jon-tyson-FlHdnPO6dlw-unsplash.0f1c4fe7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e354be.js",
+    "static/js/2.7adddc44.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5e9488f5.chunk.js"
+  ]
+}
